@@ -9,6 +9,6 @@ Progress 📊
 | Preparation Phase  | Completed  |
 | Ideation Phase  | Completed |
 | Project Design Phase I | Completed |
-| Project Design Phase II | In Progress |
+| Project Design Phase II | Completed |
 | Project Planning Phase  | |
 | Project Developement Phase | 
